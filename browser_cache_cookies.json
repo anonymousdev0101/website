@@ -1,0 +1,6 @@
+{
+    "cookies": {
+        "error": "Unable to extract cookies. Possible decryption issue."
+    },
+    "cache": "Cache extraction not implemented."
+}
